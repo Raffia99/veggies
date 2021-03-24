@@ -1,0 +1,74 @@
+﻿body{
+    background-color: whitesmoke;
+}
+.head
+{
+    
+    margin-right:5px;
+    margin-left:5px;
+    margin-top:3px;
+    color:greenyellow;
+    font-size:24px;
+    font-family:Mistral;
+    text-align:left center;
+}
+.head input[type=search]
+{
+    float: right;
+  padding: 6px;
+  margin-top: 4px;
+  margin-right: 5px;
+  font-size: 17px;
+}
+.one
+{
+    background-color:whitesmoke;
+    opacity:0.9;
+}
+.two{
+   margin-left:375px;
+   margin-bottom: 50px;
+    float: left;
+}
+#prices{
+    color: red;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+ .one p
+    {
+        color:cornsilk;
+        background-color:navajowhite;
+        font-family:'Colonna MT';
+        font-size: 26px;
+        text-align:center;
+       
+        
+    }
+.head a
+{
+    margin:auto;
+    padding: 5px;
+    border:thin;
+    font-size:20px;
+    text-align:center;
+    
+   
+}
+.head a:hover
+    {
+        color:brown;
+    }
+    .head a:visited
+    {
+        color:saddlebrown;
+    }
+.order{
+    padding:30px;
+    margin-left: 690px;
+
+}
+.det{
+    clear: both;
+}

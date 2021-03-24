@@ -1,0 +1,81 @@
+﻿@font-face
+{
+    src:local()
+}
+body
+{
+    background-color:whitesmoke;
+}
+.head
+{
+    width:1650px;
+    height:60px;
+    margin-right:5px;
+    margin-left:5px;
+    margin-top:3px;
+    margin-bottom:5px;
+    padding-bottom:10px;
+    color:greenyellow;
+    font-size:24px;
+    font-family:Mistral;
+    text-align:left center;
+}
+.head input[type=search]
+{
+    float: right;
+  padding: 6px;
+  margin-top: 4px;
+  margin-right: 5px;
+  font-size: 17px;
+}
+.one
+{
+    background-image:url(bg.jpg) ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:1650px;
+    height:350px;
+    border-color:none;
+    opacity:0.9;
+}
+ .one p
+    {
+        color:cornsilk;
+        background-color:navajowhite;
+        font-family:'Colonna MT';
+        font-size: 26px;
+        text-align:center;
+       
+        
+    }
+.head a
+{
+    margin:auto;
+    padding: 5px;
+    border:thin;
+    font-size:20px;
+    text-align:center;
+    
+   
+}
+.head a:hover
+    {
+        color:brown;
+    }
+    .head a:visited
+    {
+        color:saddlebrown;
+    }
+.three  a, .three p
+{
+    
+    image-orientation:auto;
+    background-color:white;
+    float:left;
+    padding: 24px;
+    text-align:center; 
+    background-color:whitesmoke;
+    
+}
+
+   
